@@ -1,0 +1,71 @@
+.nav{
+    list-style-type: none;
+    background-color: rgb(74, 74, 202);
+}
+.nav-item{
+    display: inline;
+    padding:10px;
+    margin:10px;
+}
+.image{
+    float:right;
+}
+.para{
+    float:left;
+}
+.image2{
+    float:right;
+}
+.image3{
+    float:right;
+}
+.image1{
+    float:right;
+}
+.tab2{
+    text-align: center;
+    background-color: gray;
+   
+}
+.kavi{
+    text-align: center;
+  
+}
+.kavi1{
+    text-align: center;
+}
+.kavi2{
+    text-align: center;
+}
+.bharathi{
+
+    padding-left:500px;
+}
+.kavibharathi:hover{
+    color: white;
+    background-color: black;
+}
+.kavibharathi1:hover{
+    color: white;
+    background-color: black;
+}
+.bharathi1{
+    height:100px;
+    text-align: center;
+    background-color: rgb(38, 38, 168);
+    color: white;
+}
+@media (min-width:375px) and (max-width:600px){
+    button{
+     color:aqua;
+     background-color: bisque;
+    }
+}
+h2:active{
+    color: blueviolet;
+}
+.abc{
+    flex:0;
+    
+
+}
